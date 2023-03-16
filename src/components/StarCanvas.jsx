@@ -1,11 +1,11 @@
 import React from "react";
 
-const Contact = () => {
+const StarCanvas = () => {
     return (
         <div>
-            Contact
+            Star Canvas
         </div>
     )
 }
 
-export default Contact
+export default StarCanvas
